@@ -1,0 +1,1 @@
+Copie a sua aplicação laravel para dentro desse diretório
